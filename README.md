@@ -118,6 +118,7 @@ Sorted alphabetically into sub-categories.
 - [SEMANTIC SCHOLAR](https://www.semanticscholar.org/): A free, AI-powered research tool to find scientific literature.
 - [SNOWBALL](https://github.com/shaunabanana/snowball): A tool that would find related articles with snowballing method.
 - [UNCITED](https://uncited.org): For keeping up with the literature.
+- [CITATIONTREE](https://citationtree.org): Generation and visualization of citation trees from a DOI.
 
 
 ### Meta-analyses
